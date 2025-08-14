@@ -5,9 +5,9 @@
 I am a sophomore computer science and data science student passionate about innovation and a big-picture approach to applying technology across disciplines. I am committed to creating impactful projects whilst collaborating with like-minded individuals.
 
 ### Tech Stack 👩‍💻
-* **Languages:** JavaScript, TypeScript, Java, C, HTML/CSS, Python, SQL, Bash
-* **Technologies:** React.js, Node.js, Git, Cloud Platforms, Kubernetes, Terraform, HCL, YAML, Figma
-* **Concepts:** Machine Learning, Agile Methodologies, Software Engineering, Frontend, Backend, Linux Servers
+* **Languages:** Java, Python, SQL, C, HTML/CSS, TypeScript, Bash
+* **Technologies:** React.js, Node.js, Tableau, Cloud Platforms, Pandas, Kubernetes, Git, Datadog, Figma
+* **Concepts:** Machine Learning, Agile Methodologies, Product Analytics, Frontend, UI/UX, Linux Servers
 
 ### Currently learning... 🪴
 * **Bash:** Building a strong foundation in scripting languages to help automate CI/CD infrastructure efficiently
